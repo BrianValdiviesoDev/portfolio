@@ -1,0 +1,12 @@
+[submodule "seo-analyzer"]
+	path = seo-analyzer
+	url = https://github.com/BrianValdiviesoDev/seo-analyzer.git
+[submodule "trivial"]
+	path = trivial
+	url = https://github.com/BrianValdiviesoDev/trivial.git
+[submodule "reviewshub"]
+	path = reviewshub
+	url = https://github.com/BrianValdiviesoDev/reviewshub.git
+[submodule "web-front"]
+	path = web-front
+	url = https://github.com/BrianValdiviesoDev/web-front.git
