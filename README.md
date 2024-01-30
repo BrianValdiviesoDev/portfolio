@@ -19,6 +19,7 @@ This project allows you to insert a URL and perform web scraping followed by bas
 
 <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/react.svg" />
 <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/vite.svg" />
+<img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/typescript.svg" />
 <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/css.svg" />
 <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/nodejs.svg" />
 <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/puppeteer.svg" />
@@ -28,6 +29,13 @@ This project allows you to insert a URL and perform web scraping followed by bas
 
 [View project](trivial/)
 
+This project was build with my coworker collegue for a Hackaton of [ElevenLabs](https://elevenlabs.io/). It's a simple game to demostrate how you can use AI for generate dynamic content and generate voices.
+
+
+<img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/next-js.svg" />
+<img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/typescript.svg" />
+<img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/openai.svg" />
+
 ### BeStrong
 
 coming soon...
@@ -36,13 +44,27 @@ coming soon...
 coming soon...
 
 ## Private projects
-
+For security reasons or for business reasons I can't show this projects. 
+If you want to see the code, please contact me and i can give you temporal access.
 ### My website
-[View project](web-front/)
+- [Live Demo](https://brianvaldivieso.com)
 
-[Live Demo](https://brianvaldivieso.com)
+<img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/next-js.svg" />
+<img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/css.svg" />
+<img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/typescript.svg" />
 
 ### Reviews Hub
-[View project](reviewshub/)
+Currently i am working on this project and for buisness reasons i can't show a public demo. If you want to see a demo, please contact me.
+
+<img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/next-js.svg" />
+<img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/materialui.svg" />
+<img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/nestjs.svg" />
+<img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/python.svg" />
+<img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/fastapi.svg" />
+<img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/mongodb.svg" />
+<img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/redis.svg" />
+<img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/docker.svg" />
+<img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/selenium.svg" />
+
 
 
