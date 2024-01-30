@@ -16,14 +16,14 @@
 [View project](seo-analyzer/)
 
 This project allows you to insert a URL and perform web scraping followed by basic SEO analysis. The application consists in two parts: the frontend built in ReactJS and the API developed in NodeJS with ExpressJS.
-
+<p float="left">
 <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/react.svg" />
 <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/vite.svg" />
 <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/typescript.svg" />
 <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/css.svg" />
 <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/nodejs.svg" />
 <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/puppeteer.svg" />
-
+</p>
 
 ### TrivIAl
 
@@ -31,10 +31,11 @@ This project allows you to insert a URL and perform web scraping followed by bas
 
 This project was build with my coworker collegue for a Hackaton of [ElevenLabs](https://elevenlabs.io/). It's a simple game to demostrate how you can use AI for generate dynamic content and generate voices.
 
-
+<p float="left">
 <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/next-js.svg" />
 <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/typescript.svg" />
 <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/openai.svg" />
+</p>
 
 ### BeStrong
 
@@ -49,13 +50,16 @@ If you want to see the code, please contact me and i can give you temporal acces
 ### My website
 - [Live Demo](https://brianvaldivieso.com)
 
+<p float="left">
 <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/next-js.svg" />
 <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/css.svg" />
 <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/typescript.svg" />
+</p>
 
 ### Reviews Hub
 Currently i am working on this project and for buisness reasons i can't show a public demo. If you want to see a demo, please contact me.
 
+<p float="left">
 <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/next-js.svg" />
 <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/materialui.svg" />
 <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/nestjs.svg" />
@@ -65,6 +69,6 @@ Currently i am working on this project and for buisness reasons i can't show a p
 <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/redis.svg" />
 <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/docker.svg" />
 <img height="50px" src="https://raw.githubusercontent.com/BrianValdiviesoDev/common-resources/master/logos/selenium.svg" />
-
+</p>
 
 
